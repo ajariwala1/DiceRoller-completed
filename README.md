@@ -10,4 +10,4 @@ This DiceRoller application will roll two dice on a button click. This is a skel
 
 ## Finished App
 
-![alt text](https://github.com/ajariwala1/diceroller-completed/blob/main/docs/diceroller_demo.gif?raw=true | width=200))
+![alt text](https://github.com/ajariwala1/diceroller-completed/blob/main/docs/diceroller_demo.gif?raw=true|width=200)
