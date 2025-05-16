@@ -6,7 +6,7 @@
 
 # DiceRoller
 
-This DiceRoller application will roll two dice on a button click. This is a skeleton project that includes all assets you need to build the application.
+This DiceRoller application will roll two dice on a button click.
 
 ## Finished App
 
